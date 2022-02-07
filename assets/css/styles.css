@@ -331,8 +331,12 @@ img {
   width: 80%;
 }
 
-.skills__ux {
+.skills__react {
   width: 70%;
+}
+
+.skills__vue {
+  width: 50%;
 }
 
 .skills__img {
