@@ -11,7 +11,7 @@
 
   	
   
-  <a href="https://github.com/tgmarinho/nlw1/commits/master">
+  <a href="https://github.com/TiagoAlmeida13/portfolio/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/TiagoAlmeida13/portfolio">
   </a>
 
